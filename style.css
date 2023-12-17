@@ -6,10 +6,15 @@ body {
   text-align:center;
   justify-content:center;
 }
-p {
+.title {
   font-size:150px;
   font-family: "Nasalization", sans-serif;
   color:white;
+}
+.under {
+  font-size:40px;
+  font-family: "Nasalization", sans-serif;
+  color:gray;
 }
 @font-face {
   font-family: "Nasalization";
