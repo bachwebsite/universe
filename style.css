@@ -7,6 +7,6 @@ p {
   font-family: "Nasalization", sans-serif;
 }
 @font-face {
-  font-family: "Nasalization", sans-serif;
+  font-family: "Nasalization";
   src: url('myfont.otf') format("opentype");
 }
