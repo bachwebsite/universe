@@ -1,0 +1,12 @@
+body {
+  text-align:center;
+  justify-content:center;
+}
+p {
+  font-size:150px;
+  font-family: "Nasalization", sans-serif;
+}
+@font-face {
+  font-family: "Nasalization", sans-serif;
+  src: url('myfont.otf') format("opentype");
+}
