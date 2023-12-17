@@ -9,6 +9,7 @@ body {
   justify-content:center;
 }
 .title {
+  margin-top:50px;
   font-size:150px;
   font-family: "Nasalization", sans-serif;
   color:white;
